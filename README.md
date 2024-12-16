@@ -4,4 +4,5 @@
 Compress a string and then perform base64 encoding, which supports reversible.
 
 belike:
+
 ![image](https://github.com/user-attachments/assets/f3960147-c39c-43fc-8399-ed4a4205b2c2)
